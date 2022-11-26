@@ -1,6 +1,6 @@
 - 👋 Hello!
-- 👀 I am very interested in infrastructure automation
-- 🌱 My dream is to manage infrastructure with code
+- 👀 I am very interested in Publishing
+- 🌱 My dream is to Web-Coder
 - 💞️ Nice and fancy script
 - 📫 I like Receiving feedback and sharing skills
 
